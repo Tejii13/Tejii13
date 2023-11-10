@@ -71,8 +71,6 @@ Or Stack Overflow
 <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejii13&show_icons=true&locale=en&layout=compact" alt="tejii13" /></p>
-<br />
-<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejii13&show_icons=true&locale=en" alt="tejii13" /></p>
 
 
