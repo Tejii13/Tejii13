@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejii</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejii13&label=Profile%20views&color=0e75b6&style=flat" alt="tejii13" /> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejii13" alt="tejii13" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejii13" alt="tejii13" /></a> </p>
-
-- 🔭 I’m currently working on [Star Flotilla](https://star-flotilla.com)
+- 🚀 I’m currently working on **[Star Flotilla](https://star-flotilla.com)**
 
 - 🌱 And learning **Angular, Symfony and React**
 
@@ -13,8 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/telmo-s-643b2120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/telmo-s-643b2120b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22464288/tejii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tejii_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/telmo-s-643b2120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/telmo-s-643b2120b/" height="30" width="40" /></a> On Linkedin
+<br />
+<a href="https://stackoverflow.com/users/22464288/tejii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tejii_" height="30" width="40" /></a> Or Stack Overflow
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,4 +74,6 @@
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejii13&show_icons=true&locale=en" alt="tejii13" /></p>
 
-<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejii13&" alt="tejii13" /></p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejii13&label=Profile%20views&color=0e75b6&style=flat" alt="tejii13" /> </p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejii13&" alt="tejii13" /></p> -->
