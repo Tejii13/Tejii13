@@ -7,7 +7,7 @@
 
 - 🌱 And learning **Angular, Symfony and React**
 
-- 📫 You can reach me at **telmosousapro@proton.me**
+- 📫 You can reach me at **contact@telmosousa.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
